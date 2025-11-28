@@ -56,5 +56,5 @@ Please cite this dataset as:
 
 ## Contact  
 For questions or further details, contact:  
-**Isaac**  
+**Oguz**  
 Email: *your-email-here@example.com*
