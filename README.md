@@ -50,7 +50,7 @@ License: https://creativecommons.org/licenses/by/4.0/
 ## Recommended Citation  
 Please cite this dataset as:
 
-**Isaac (2025). Impact of Screen Time and Sleep Quality on Oral Behaviors and Caries Risk in School-Age Children (Version 1.0.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.17744161**
+**Oguz (2025). Impact of Screen Time and Sleep Quality on Oral Behaviors and Caries Risk in School-Age Children (Version 1.0.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.17744161**
 
 ---
 
