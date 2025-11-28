@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it using the following metadata."
+title: "Impact of Screen Time and Sleep Quality on Oral Behaviors and Caries Risk in School-Age Children: Dataset"
+version: "1.0.1"
+doi: "10.5281/zenodo.17744161"
+date-released: "2025-01-29"
+url: "https://github.com/Oguz20-sys/screen-time-sleep-oral-health-dataset"
+authors:
+  - family-names: "Isaac"
+    given-names: ""
+keywords:
+  - screen time
+  - sleep quality
+  - oral health
+  - caries risk
+  - pediatric dentistry
+  - behavioral health
+license: "CC-BY-4.0"
+preferred-citation:
+  type: dataset
+  authors:
+    - family-names: "Isaac"
+      given-names: ""
+  title: "Impact of Screen Time and Sleep Quality on Oral Behaviors and Caries Risk in School-Age Children (Version 1.0.1)"
+  doi: "10.5281/zenodo.17744161"
+  url: "https://doi.org/10.5281/zenodo.17744161"
